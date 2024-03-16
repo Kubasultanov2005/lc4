@@ -1,0 +1,18 @@
+.ProfileInfo {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  padding: 0 20px;
+}
+
+.ProfileInfo-prop {
+  display: flex;
+  justify-content: flex-start;
+  column-gap: 10px;
+  font-size: 18px
+}
+
+.ProfileInfo-value {
+  font-weight: bold;
+}
+

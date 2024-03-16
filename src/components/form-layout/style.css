@@ -1,0 +1,15 @@
+.FormLayout {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  padding: 0 20px;
+}
+
+.FormLayout-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.FormLayout-error {
+  color: red;
+}

@@ -1,0 +1,10 @@
+.UserMenu {
+  padding: 10px 20px;
+  border-bottom: 1px solid #DCDCDC;
+}
+
+.UserMenu-content {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+}
